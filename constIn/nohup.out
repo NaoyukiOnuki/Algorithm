@@ -1,0 +1,972 @@
+degree = 1
+Exp 7 / 16
+Exp 9 / 16
+Exp 1 / 16
+Exp 10 / 16
+Exp 2 / 16
+Exp 11 / 16
+Exp 6 / 16
+Exp 12 / 16
+Exp 3 / 16
+Exp 13 / 16
+Exp 4 / 16
+Exp 5 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 8 / 16
+Exp 16 / 16
+degree = 2
+Exp 1 / 16
+Exp 2 / 16
+Exp 4 / 16
+Exp 8 / 16
+Exp 9 / 16
+Exp 10 / 16
+Exp 11 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 6 / 16
+Exp 16 / 16
+Exp 7 / 16
+Exp 3 / 16
+Exp 5 / 16
+Exp 13 / 16
+Exp 12 / 16
+degree = 3
+Exp 1 / 16
+Exp 3 / 16
+Exp 5 / 16
+Exp 8 / 16
+Exp 2 / 16
+Exp 9 / 16
+Exp 11 / 16
+Exp 13 / 16
+Exp 14 / 16
+Exp 4 / 16
+Exp 12 / 16
+Exp 10 / 16
+Exp 7 / 16
+Exp 15 / 16
+Exp 6 / 16
+Exp 16 / 16
+degree = 2
+Exp 1 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 5 / 16
+Exp 2 / 16
+Exp 6 / 16
+Exp 8 / 16
+Exp 7 / 16
+Exp 11 / 16
+Exp 12 / 16
+Exp 10 / 16
+Exp 13 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 16 / 16
+Exp 9 / 16
+degree = 3
+Exp 1 / 16
+Exp 4 / 16
+Exp 3 / 16
+Exp 2 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 10 / 16
+Exp 11 / 16
+Exp 13 / 16
+Exp 12 / 16
+Exp 14 / 16
+Exp 16 / 16
+Exp 15 / 16
+Exp 9 / 16
+degree = 4
+Exp 1 / 16
+Exp 2 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 9 / 16
+Exp 10 / 16
+Exp 11 / 16
+Exp 12 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 16 / 16
+Exp 13 / 16
+Y1Yl execMaxKSCC: 3268108
+5e51 execMaxKSCC: 3642075
+ic3z execMaxKSCC: 3704907
+EaUZ execMaxKSCC: 3794394
+cLiK execMaxKSCC: 3844362
+W95F execMaxKSCC: 3895569
+fZWD execMaxKSCC: 3924059
+qVSc execMaxKSCC: 4141900
+akjX execMaxKSCC: 4312126
+sfeq execMaxKSCC: 4345541
+2Umv execMaxKSCC: 4382275
+5zg8 execMaxKSCC: 4442092
+X8hr execMaxKSCC: 4453938
+izfh execMaxKSCC: 4543613
+4XPw execMaxKSCC: 4579910
+P579 execMaxKSCC: 4607814
+degree = 5
+Exp 2 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 1 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 9 / 16
+Exp 10 / 16
+Exp 13 / 16
+Exp 11 / 16
+Exp 16 / 16
+Exp 12 / 16
+Exp 15 / 16
+Exp 14 / 16
+VJIt execMaxKSCC: 5347780
+h0Wc execMaxKSCC: 5912717
+NWW1 execMaxKSCC: 5962592
+Mtl6 execMaxKSCC: 5997164
+aGqD execMaxKSCC: 6067640
+y4kx execMaxKSCC: 6212161
+OAJt execMaxKSCC: 6338756
+evCN execMaxKSCC: 6382532
+LFyt execMaxKSCC: 6406146
+hImG execMaxKSCC: 6685044
+it8c execMaxKSCC: 6687658
+oWqi execMaxKSCC: 6727198
+iP66 execMaxKSCC: 6732419
+g8r4 execMaxKSCC: 6771191
+J8W5 execMaxKSCC: 6797732
+hggb execMaxKSCC: 6819795
+degree = 5
+Exp 1 / 16
+Exp 2 / 16
+Exp 4 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 9 / 16
+Exp 10 / 16
+Exp 11 / 16
+Exp 12 / 16
+Exp 13 / 16
+Exp 14 / 16
+Exp 16 / 16
+Exp 3 / 16
+Exp 15 / 16
+degree = 6
+Exp 2 / 16
+Exp 4 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 7 / 16
+Exp 3 / 16
+Exp 8 / 16
+Exp 10 / 16
+Exp 11 / 16
+Exp 12 / 16
+Exp 13 / 16
+Exp 15 / 16
+Exp 14 / 16
+Exp 16 / 16
+Exp 1 / 16
+Exp 9 / 16
+degree = 7
+Exp 1 / 16
+Exp 4 / 16
+Exp 2 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 9 / 16
+Exp 10 / 16
+Exp 11 / 16
+Exp 12 / 16
+Exp 13 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 3 / 16
+Exp 16 / 16
+degree = 8
+Exp 1 / 16
+Exp 2 / 16
+Exp 3 / 16
+Exp 5 / 16
+Exp 4 / 16
+Exp 6 / 16
+Exp 8 / 16
+Exp 7 / 16
+Exp 9 / 16
+Exp 10 / 16
+Exp 11 / 16
+Exp 12 / 16
+Exp 13 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 16 / 16
+sgtk execMaxKSCC: 1677321
+CRhf execMaxKSCC: 1993554
+O0c3 execMaxKSCC: 2008951
+E4xh execMaxKSCC: 2043553
+tD4I execMaxKSCC: 2459881
+beTR execMaxKSCC: 2586108
+degree = 9
+Exp 1 / 16
+Exp 8 / 16
+Exp 7 / 16
+Exp 10 / 16
+Exp 2 / 16
+Exp 6 / 16
+Exp 15 / 16
+Exp 16 / 16
+Exp 5 / 16
+Exp 4 / 16
+Exp 3 / 16
+Exp 13 / 16
+Exp 14 / 16
+Exp 12 / 16
+Exp 11 / 16
+Exp 9 / 16
+yPG0 execMaxKSCC: 5889147
+ajIe execMaxKSCC: 6326283
+HKZY execMaxKSCC: 6587800
+NZsa execMaxKSCC: 6924116
+CeLi execMaxKSCC: 7120376
+MOvL execMaxKSCC: 7387277
+O6wj execMaxKSCC: 7419035
+7zDm execMaxKSCC: 7623080
+W1U8 execMaxKSCC: 7738203
+q5vL execMaxKSCC: 7778734
+jpsC execMaxKSCC: 7884379
+XNVv execMaxKSCC: 8408642
+M1lt execMaxKSCC: 8435466
+CJhs execMaxKSCC: 8778624
+fWqR execMaxKSCC: 8857893
+L5P3 execMaxKSCC: 8860441
+degree = 10
+Exp 2 / 16
+Exp 3 / 16
+Exp 1 / 16
+Exp 5 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 9 / 16
+Exp 4 / 16
+Exp 6 / 16
+Exp 12 / 16
+Exp 13 / 16
+Exp 11 / 16
+Exp 10 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 16 / 16
+degree = 11
+Exp 1 / 16
+Exp 2 / 16
+Exp 5 / 16
+Exp 4 / 16
+Exp 6 / 16
+Exp 3 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 9 / 16
+Exp 10 / 16
+Exp 11 / 16
+Exp 13 / 16
+Exp 15 / 16
+Exp 14 / 16
+Exp 12 / 16
+Exp 16 / 16
+degree = 12
+Exp 1 / 16
+Exp 2 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 8 / 16
+Exp 7 / 16
+Exp 9 / 16
+Exp 10 / 16
+Exp 12 / 16
+Exp 13 / 16
+Exp 11 / 16
+Exp 16 / 16
+Exp 15 / 16
+Exp 14 / 16
+degree = 13
+Exp 1 / 16
+Exp 2 / 16
+Exp 4 / 16
+Exp 3 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 9 / 16
+Exp 10 / 16
+Exp 11 / 16
+Exp 13 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 16 / 16
+Exp 12 / 16
+degree = 14
+Exp 2 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 6 / 16
+Exp 5 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 11 / 16
+Exp 9 / 16
+Exp 10 / 16
+Exp 12 / 16
+Exp 13 / 16
+Exp 14 / 16
+Exp 16 / 16
+Exp 15 / 16
+Exp 1 / 16
+degree = 15
+Exp 2 / 16
+Exp 3 / 16
+Exp 5 / 16
+Exp 1 / 16
+Exp 7 / 16
+Exp 6 / 16
+Exp 8 / 16
+Exp 4 / 16
+Exp 12 / 16
+Exp 15 / 16
+Exp 13 / 16
+Exp 11 / 16
+Exp 10 / 16
+Exp 9 / 16
+Exp 16 / 16
+Exp 14 / 16
+zV26 execMaxKSCC: 3496976
+9czs execMaxKSCC: 4090297
+MFiF execMaxKSCC: 4095343
+VXwE execMaxKSCC: 5192759
+Hxhk execMaxKSCC: 5606051
+CyEl execMaxKSCC: 5686025
+WScQ execMaxKSCC: 6190813
+degree = 16
+Exp 2 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 1 / 16
+Exp 9 / 16
+Exp 3 / 16
+Exp 11 / 16
+Exp 10 / 16
+Exp 12 / 16
+Exp 13 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 16 / 16
+Exp 4 / 16
+rip2 execMaxKSCC: 8776862
+5W2Y execMaxKSCC: 9800981
+k77I execMaxKSCC: 10240344
+lb74 execMaxKSCC: 10487871
+AR5z execMaxKSCC: 10783936
+XWxN execMaxKSCC: 10865703
+Vzdd execMaxKSCC: 11126079
+YxDR execMaxKSCC: 11170817
+4E4F execMaxKSCC: 11196403
+QGD4 execMaxKSCC: 11326543
+4SGI execMaxKSCC: 11435392
+H5nd execMaxKSCC: 11546792
+sO2w execMaxKSCC: 11681118
+c9m2 execMaxKSCC: 11701204
+BMGn execMaxKSCC: 11812182
+B91h execMaxKSCC: 12070107
+degree = 20
+Exp 2 / 16
+Exp 1 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 7 / 16
+Exp 9 / 16
+Exp 6 / 16
+Exp 5 / 16
+Exp 10 / 16
+Exp 12 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 8 / 16
+Exp 16 / 16
+Exp 13 / 16
+Exp 11 / 16
+degree = 21
+Exp 1 / 16
+Exp 2 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 13 / 16
+Exp 10 / 16
+Exp 16 / 16
+Exp 11 / 16
+Exp 9 / 16
+Exp 15 / 16
+Exp 14 / 16
+Exp 12 / 16
+degree = 22
+Exp 1 / 16
+Exp 3 / 16
+Exp 2 / 16
+Exp 4 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 7 / 16
+Exp 10 / 16
+Exp 8 / 16
+Exp 11 / 16
+Exp 13 / 16
+Exp 9 / 16
+Exp 16 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 12 / 16
+degree = 23
+Exp 1 / 16
+Exp 2 / 16
+Exp 4 / 16
+Exp 3 / 16
+Exp 6 / 16
+Exp 7 / 16
+Exp 9 / 16
+Exp 5 / 16
+Exp 10 / 16
+Exp 13 / 16
+Exp 15 / 16
+Exp 16 / 16
+Exp 8 / 16
+Exp 14 / 16
+Exp 12 / 16
+Exp 11 / 16
+degree = 24
+Exp 1 / 16
+Exp 2 / 16
+Exp 4 / 16
+Exp 3 / 16
+Exp 6 / 16
+Exp 8 / 16
+Exp 9 / 16
+Exp 11 / 16
+Exp 12 / 16
+Exp 13 / 16
+Exp 7 / 16
+Exp 5 / 16
+Exp 15 / 16
+Exp 14 / 16
+Exp 10 / 16
+Exp 16 / 16
+degree = 25
+Exp 1 / 16
+Exp 2 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 10 / 16
+Exp 15 / 16
+Exp 11 / 16
+Exp 14 / 16
+Exp 13 / 16
+Exp 12 / 16
+Exp 16 / 16
+Exp 9 / 16
+degree = 26
+Exp 1 / 16
+Exp 5 / 16
+Exp 8 / 16
+Exp 9 / 16
+Exp 10 / 16
+Exp 2 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 6 / 16
+Exp 15 / 16
+Exp 13 / 16
+Exp 16 / 16
+Exp 12 / 16
+Exp 7 / 16
+Exp 14 / 16
+Exp 11 / 16
+degree = 27
+Exp 1 / 16
+Exp 2 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 5 / 16
+Exp 8 / 16
+Exp 6 / 16
+Exp 9 / 16
+Exp 11 / 16
+Exp 12 / 16
+Exp 13 / 16
+Exp 7 / 16
+Exp 16 / 16
+Exp 15 / 16
+Exp 14 / 16
+Exp 10 / 16
+UKz5 execMaxKSCC: 5647409
+degree = 28
+Exp 1 / 16
+Exp 2 / 16
+Exp 3 / 16
+Exp 5 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 10 / 16
+Exp 11 / 16
+Exp 13 / 16
+Exp 14 / 16
+Exp 4 / 16
+Exp 12 / 16
+Exp 15 / 16
+Exp 16 / 16
+Exp 9 / 16
+Exp 6 / 16
+vbd0 execMaxKSCC: 7326923
+RpXF execMaxKSCC: 7906099
+iVyb execMaxKSCC: 7910878
+KVpr execMaxKSCC: 8563581
+FGmj execMaxKSCC: 9092940
+vn1P execMaxKSCC: 9831423
+Fw7f execMaxKSCC: 9890854
+HgCL execMaxKSCC: 9973548
+wo4n execMaxKSCC: 10306663
+mx59 execMaxKSCC: 10337636
+ISOc execMaxKSCC: 10579831
+LJtM execMaxKSCC: 10755951
+l0Lx execMaxKSCC: 11030703
+degree = 29
+Exp 1 / 16
+Exp 4 / 16
+Exp 2 / 16
+Exp 3 / 16
+Exp 6 / 16
+Exp 5 / 16
+Exp 16 / 16
+Exp 15 / 16
+Exp 7 / 16
+Exp 14 / 16
+Exp 13 / 16
+Exp 12 / 16
+Exp 10 / 16
+Exp 9 / 16
+Exp 8 / 16
+Exp 11 / 16
+4IIo execMaxKSCC: 8988452
+KLJi execMaxKSCC: 10153783
+kkEo execMaxKSCC: 10808704
+3KYi execMaxKSCC: 11091452
+dC60 execMaxKSCC: 12152975
+FFNC execMaxKSCC: 12184236
+6vKr execMaxKSCC: 12386323
+0J3R execMaxKSCC: 12394190
+h3aC execMaxKSCC: 12619091
+TPU9 execMaxKSCC: 12799274
+Thqd execMaxKSCC: 12904131
+xxIX execMaxKSCC: 12943116
+lbY3 execMaxKSCC: 13054576
+Mg0j execMaxKSCC: 13256187
+tp32 execMaxKSCC: 13268878
+degree = 40
+Exp 1 / 16
+Exp 4 / 16
+Exp 8 / 16
+Exp 9 / 16
+Exp 2 / 16
+Exp 10 / 16
+Exp 12 / 16
+Exp 15 / 16
+Exp 3 / 16
+Exp 16 / 16
+Exp 13 / 16
+Exp 14 / 16
+Exp 11 / 16
+Exp 7 / 16
+Exp 6 / 16
+Exp 5 / 16
+degree = 41
+Exp 1 / 16
+Exp 2 / 16
+Exp 3 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 8 / 16
+Exp 4 / 16
+Exp 10 / 16
+Exp 9 / 16
+Exp 12 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 16 / 16
+Exp 7 / 16
+Exp 13 / 16
+Exp 11 / 16
+degree = 42
+Exp 1 / 16
+Exp 2 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 9 / 16
+Exp 10 / 16
+Exp 11 / 16
+Exp 12 / 16
+Exp 13 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 16 / 16
+degree = 43
+Exp 1 / 16
+Exp 2 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 5 / 16
+Exp 16 / 16
+Exp 13 / 16
+Exp 8 / 16
+Exp 15 / 16
+Exp 14 / 16
+Exp 12 / 16
+Exp 9 / 16
+Exp 11 / 16
+Exp 10 / 16
+Exp 7 / 16
+Exp 6 / 16
+degree = 44
+Exp 1 / 16
+Exp 2 / 16
+Exp 7 / 16
+Exp 10 / 16
+Exp 11 / 16
+Exp 13 / 16
+Exp 15 / 16
+Exp 9 / 16
+Exp 16 / 16
+Exp 4 / 16
+Exp 8 / 16
+Exp 6 / 16
+Exp 3 / 16
+Exp 5 / 16
+Exp 14 / 16
+Exp 12 / 16
+degree = 45
+Exp 1 / 16
+Exp 3 / 16
+Exp 2 / 16
+Exp 4 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 8 / 16
+Exp 9 / 16
+Exp 7 / 16
+Exp 10 / 16
+Exp 11 / 16
+Exp 16 / 16
+Exp 15 / 16
+Exp 14 / 16
+Exp 12 / 16
+Exp 13 / 16
+degree = 46
+Exp 1 / 16
+Exp 2 / 16
+Exp 3 / 16
+Exp 7 / 16
+Exp 9 / 16
+Exp 10 / 16
+Exp 12 / 16
+Exp 13 / 16
+Exp 6 / 16
+Exp 15 / 16
+Exp 5 / 16
+Exp 4 / 16
+Exp 14 / 16
+Exp 11 / 16
+Exp 8 / 16
+Exp 16 / 16
+degree = 47
+Exp 2 / 16
+Exp 5 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 10 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 1 / 16
+Exp 16 / 16
+Exp 4 / 16
+Exp 3 / 16
+Exp 13 / 16
+Exp 12 / 16
+Exp 11 / 16
+Exp 9 / 16
+Exp 6 / 16
+degree = 48
+Exp 1 / 16
+Exp 3 / 16
+Exp 7 / 16
+Exp 10 / 16
+Exp 13 / 16
+Exp 2 / 16
+Exp 15 / 16
+Exp 16 / 16
+Exp 14 / 16
+Exp 12 / 16
+Exp 11 / 16
+Exp 6 / 16
+Exp 9 / 16
+Exp 8 / 16
+Exp 4 / 16
+Exp 5 / 16
+degree = 49
+Exp 1 / 16
+Exp 4 / 16
+Exp 6 / 16
+Exp 9 / 16
+Exp 11 / 16
+Exp 14 / 16
+Exp 2 / 16
+Exp 13 / 16
+Exp 15 / 16
+Exp 12 / 16
+Exp 16 / 16
+Exp 10 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 5 / 16
+Exp 3 / 16
+degree = 50
+Exp 1 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 2 / 16
+Exp 4 / 16
+Exp 8 / 16
+Exp 9 / 16
+Exp 3 / 16
+Exp 10 / 16
+Exp 15 / 16
+Exp 7 / 16
+Exp 14 / 16
+Exp 13 / 16
+Exp 12 / 16
+Exp 11 / 16
+Exp 16 / 16
+l7w9 execMaxKSCC: 6646483
+degree = 51
+Exp 2 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 6 / 16
+Exp 8 / 16
+Exp 10 / 16
+Exp 11 / 16
+Exp 13 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 9 / 16
+Exp 5 / 16
+Exp 1 / 16
+Exp 16 / 16
+Exp 7 / 16
+Exp 12 / 16
+WlO7 execMaxKSCC: 6483562
+iMsi execMaxKSCC: 6779271
+c02r execMaxKSCC: 6811898
+2IKs execMaxKSCC: 6944864
+by6B execMaxKSCC: 7710751
+WaKE execMaxKSCC: 7888403
+degree = 52
+Exp 3 / 16
+Exp 2 / 16
+Exp 5 / 16
+Exp 7 / 16
+Exp 9 / 16
+Exp 1 / 16
+Exp 11 / 16
+Exp 6 / 16
+Exp 4 / 16
+Exp 16 / 16
+Exp 15 / 16
+Exp 14 / 16
+Exp 13 / 16
+Exp 12 / 16
+Exp 10 / 16
+Exp 8 / 16
+k3EZ execMaxKSCC: 7137395
+Kvu9 execMaxKSCC: 8034670
+kqsW execMaxKSCC: 8409462
+fDj1 execMaxKSCC: 8414750
+Ns01 execMaxKSCC: 8775347
+gL6L execMaxKSCC: 8924308
+ESv9 execMaxKSCC: 8950430
+pzHk execMaxKSCC: 9115318
+HUsc execMaxKSCC: 9273901
+L6Tl execMaxKSCC: 9744717
+degree = 53
+Exp 1 / 16
+Exp 2 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 8 / 16
+Exp 7 / 16
+Exp 9 / 16
+Exp 10 / 16
+Exp 12 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 16 / 16
+Exp 11 / 16
+Exp 13 / 16
+Udv7 execMaxKSCC: 11572525
+ndAA execMaxKSCC: 12007327
+YsWE execMaxKSCC: 12026484
+ZGJe execMaxKSCC: 12067340
+hPse execMaxKSCC: 12296470
+iYJt execMaxKSCC: 12366161
+GoIp execMaxKSCC: 12512891
+dBqI execMaxKSCC: 12547825
+vkJ5 execMaxKSCC: 12718777
+wXCO execMaxKSCC: 12893030
+zNjE execMaxKSCC: 12978457
+OP2W execMaxKSCC: 13126812
+DS6U execMaxKSCC: 13143892
+nER6 execMaxKSCC: 13193287
+jJIE execMaxKSCC: 13297367
+GbyR execMaxKSCC: 13305079
+degree = 1
+Exp 1 / 16
+Exp 5 / 16
+Exp 2 / 16
+Exp 6 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 9 / 16
+Exp 10 / 16
+Exp 11 / 16
+Exp 12 / 16
+Exp 13 / 16
+Exp 14 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 15 / 16
+Exp 16 / 16
+degree = 2
+Exp 1 / 16
+Exp 2 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 8 / 16
+Exp 11 / 16
+Exp 6 / 16
+Exp 12 / 16
+Exp 13 / 16
+Exp 14 / 16
+Exp 15 / 16
+Exp 7 / 16
+Exp 5 / 16
+Exp 10 / 16
+Exp 16 / 16
+Exp 9 / 16
+degree = 3
+Exp 3 / 16
+Exp 2 / 16
+Exp 6 / 16
+Exp 9 / 16
+Exp 10 / 16
+Exp 11 / 16
+Exp 1 / 16
+Exp 13 / 16
+Exp 15 / 16
+Exp 16 / 16
+Exp 5 / 16
+Exp 4 / 16
+Exp 14 / 16
+Exp 12 / 16
+Exp 8 / 16
+Exp 7 / 16
+degree = 2
+Exp 2 / 16
+Exp 1 / 16
+Exp 6 / 16
+Exp 8 / 16
+Exp 10 / 16
+Exp 3 / 16
+Exp 13 / 16
+Exp 15 / 16
+Exp 16 / 16
+Exp 5 / 16
+Exp 4 / 16
+Exp 14 / 16
+Exp 12 / 16
+Exp 11 / 16
+Exp 9 / 16
+Exp 7 / 16
+degree = 3
+Exp 1 / 16
+Exp 3 / 16
+Exp 4 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 7 / 16
+Exp 8 / 16
+Exp 9 / 16
+Exp 2 / 16
+Exp 10 / 16
+Exp 12 / 16
+Exp 13 / 16
+Exp 15 / 16
+Exp 11 / 16
+Exp 16 / 16
+Exp 14 / 16
+degree = 4
+Exp 1 / 16
+Exp 3 / 16
+Exp 2 / 16
+Exp 7 / 16
+Exp 9 / 16
+Exp 11 / 16
+Exp 12 / 16
+Exp 13 / 16
+Exp 5 / 16
+Exp 6 / 16
+Exp 16 / 16
+Exp 4 / 16
+Exp 15 / 16
+Exp 14 / 16
+Exp 10 / 16
+Exp 8 / 16
