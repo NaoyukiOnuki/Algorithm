@@ -1,0 +1,2 @@
+upperBound=0.95, numOfExp=64
+642	
