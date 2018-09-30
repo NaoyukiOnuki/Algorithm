@@ -1,0 +1,7 @@
+upperBound=0.95, numOfExp=64
+1	4
+2	5
+3	7
+4	9
+5	10
+6	
