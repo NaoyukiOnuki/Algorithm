@@ -1,0 +1,2 @@
+upperBound=0.95, scale=50, numOfExp=64
+1	
