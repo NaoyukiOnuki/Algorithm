@@ -1154,3 +1154,6 @@ Caused by: java.lang.StackOverflowError
 	at scala.runtime.java8.JFunction1$mcVI$sp.apply(JFunction1$mcVI$sp.java:12)
 	at scala.collection.immutable.HashSet$HashSet1.foreach(HashSet.scala:320)
 	at scala.collection.immutable.HashSet$HashTrieSet.foreach(HashSet.scala:976)
+100000
+1000000
+10000000
